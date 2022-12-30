@@ -1,1 +1,1 @@
-This section deals with my work on analyzing Google Scholar searches.
+This section deals with my work on Google Scholar searches.
