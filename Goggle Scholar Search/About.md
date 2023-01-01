@@ -1,3 +1,3 @@
 This section deals with my work on Google Scholar searches. This exploratory data analysis is intended to provide information about the collected data.
 
-The [arXiv](https://github.com/booktrackerGirl/Data-wrangling-and-analysis/blob/main/Goggle%20Scholar%20Search/arXiv_analysis.ipynb) code looks specifically on the preprints which were published in between 2013-2022. First, pre-processing is performed before using topic modelling for clustering out the topics.
+The [arXiv](https://github.com/booktrackerGirl/Data-wrangling-and-analysis/blob/main/Goggle%20Scholar%20Search/arXiv_analysis.ipynb) code looks specifically on the preprints which were published in between 2013-2022. First, pre-processing is performed before using topic modelling for clustering the topics, using both word and sentence embeddings.
