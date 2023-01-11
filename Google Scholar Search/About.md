@@ -1,0 +1,5 @@
+This section deals with my work on Google Scholar searches. This exploratory data analysis (EDA) is intended to provide information about the collected data.
+
+The Google Scholar search results return both published manuscripts and preprints on the topic of misogyny and sexism. The [code](https://github.com/booktrackerGirl/Data-wrangling-and-analysis/blob/main/Google%20Scholar%20Search/google_scholar_search_analysis.ipynb) specifically focuses on performing EDA.
+
+The [arXiv](https://github.com/booktrackerGirl/Data-wrangling-and-analysis/blob/main/Goggle%20Scholar%20Search/arXiv_analysis.ipynb) code looks specifically on the preprints which were published in between 2013-2022. First, pre-processing is performed before using topic modelling for clustering the topics, using both word and sentence embeddings.
